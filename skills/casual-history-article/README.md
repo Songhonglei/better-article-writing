@@ -36,7 +36,7 @@ git clone https://github.com/Songhonglei/better-article-writing.git
 
 ## License
 
-MIT (see [../../LICENSE](../../LICENSE))
+MIT (see [LICENSE](./LICENSE))
 
 ## Author
 

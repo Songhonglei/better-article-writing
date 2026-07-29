@@ -10,6 +10,7 @@
 |---|---|
 | [skills/casual-history-article](./skills/casual-history-article) | 把历史、宗教、地理、人物和流行文化写成有现场感、幽默克制且事实可核的中文微信公众号文章 |
 | [skills/middle-aged-social-comment](./skills/middle-aged-social-comment) | 面向 30-50 岁中年读者的微信公众号社会评论文章全流程写作，非线性叙事 + 思维毛边 + 瑕疵美学的灵性风格 |
+| [skills/wechat-article-ai-check](./skills/wechat-article-ai-check) | 微信公众号文章 AI 检查：创作度 / 同质化 / 搬运拼凑 / 信息量 / 低价值 AIGC 风险诊断与两阶段改写 |
 
 后续会持续加入更多文体（如深度长文、产品文案、技术博客等），欢迎关注。
 

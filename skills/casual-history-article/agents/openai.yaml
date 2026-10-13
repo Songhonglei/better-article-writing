@@ -1,0 +1,4 @@
+interface:
+  display_name: "休闲历史文章"
+  short_description: "用百姓家常话聊历史、宗教与人物故事，随意轻松、有趣幽默，史实可靠"
+  default_prompt: "使用 $casual-history-article 用百姓家常话写一篇随意、休闲、轻松幽默的中文历史公众号文章，讲具体的人和事，核实关键史实，篇幅按正文统计。"
